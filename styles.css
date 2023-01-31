@@ -17,7 +17,6 @@ body {
   display: none;
 }
 
-
 /* Navbar (general) */
 nav {
   display: flex;
@@ -156,7 +155,6 @@ nav {
   font-size: var(--sm);
   color: var(--hospital-green) !important;
 }
-
 
 /* Aside (product detail y carrito) */
 aside {
